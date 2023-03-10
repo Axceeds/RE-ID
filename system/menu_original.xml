@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+   <menu>
+        <processList>None quantify temporalFilter diff backgroundRemove interpolate spatialFilter segment resize connectedComponent</processList>
+        <temporalFilterList>average Gauss median</temporalFilterList>
+        <filterList>average Gauss median bilateral</filterList>
+        <segmentList>artificial Otsu triangle triangle2</segmentList>
+        <backgroundRemoveList>BS BS-SEG FBR GBR DFBR MOG DFBR_back DFBR_threshold AGBR-PM AGBR-PM_back AGBR-PM_threshold AGBR-PM_prior AGBR-PM_density</backgroundRemoveList>
+        <action>background standing handwaving bending mopping walkingSlowly walkingFast running hopping jumping falling sittingDown sitting typing sittingUp squattingDown squating squattingUp lying lyingDown lyingUp</action>
+        <dataNameList>side0 top0 side1 top1 side top</dataNameList>
+        <portNameList>side0 top0 side1 top1</portNameList>
+        <portList>10001 10002 10003 10004</portList>
+        <end>0</end>
+    </menu>
+  

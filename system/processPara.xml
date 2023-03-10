@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<processPara>
+    <filePath>D:/2.PycharmProjects/仿真平台构建/data/all_dataprocessed/Exp2_wwy_12_1_processed.xml</filePath>
+    <processNum>4</processNum>
+    <flow0>quantify backgroundRemove connectedComponent None None None None None None None</flow0>
+    <flow1>quantify backgroundRemove connectedComponent None None None None None None None</flow1>
+    <flow2>None None None None None None None None None None</flow2>
+    <flow3>quantify interpolate None None None None None None None None</flow3>
+    <temporalFilter>Gauss Gauss Gauss Gauss</temporalFilter>
+    <temporalFilterBuffer>3 5 5 5</temporalFilterBuffer>
+    <interPoints>3 3 3 3</interPoints>
+    <filter>median median median median</filter>
+    <filterPara>3 5 5 5</filterPara>
+    <segment>triangle2 triangle2 triangle2 triangle2</segment>
+    <segmentPara>25.0 15.0 15.0 29.0</segmentPara>
+    <backgroundRemove>BS-SEG BS-SEG BS-SEG BS-SEG</backgroundRemove>
+    <RBbuffer>5 5 5 5</RBbuffer>
+    <dataName>side0 side1 top0 top1</dataName>
+    <startFrame>47</startFrame>
+    <endFrame>47</endFrame>
+    <leftPixel>14</leftPixel>
+    <rightPixel>14</rightPixel>
+    <upPixel>14</upPixel>
+    <downPixel>14</downPixel>
+    <port>10001 10002 10003 10004</port>
+    <portName>side0 side1 top0 top1</portName>>
+    <frames>48</frames>
+    <length>0</length>>
+    <name>123</name>
+    <end>0</end>
+</processPara>

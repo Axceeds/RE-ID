@@ -1,0 +1,6 @@
+从底到挂板最上方  114cm
+从最远到行人中心  150cm
+处理流程
+quantify
+BS-SEG
+connectedComponent

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<figurePara>
+    <figureNum>4</figureNum>
+    <row>24</row>
+    <col>32</col>
+    <figureWidth>420</figureWidth>
+    <figureHeight>315</figureHeight>
+    <colorStyle>jet</colorStyle>
+    <title1>10000 Frames of One Pixel in Empty Background</title1>
+    <x_axis1>Temperature for One Pixel in TPAS (°C)</x_axis1>
+    <y_axis1>Frequency</y_axis1>
+    <title2>Average Temperature Curve of Background Mean Matrix</title2>
+    <x_axis2>Frame</x_axis2>
+    <y_axis2>Temperature (°C)</y_axis2>
+    <end>0</end>
+</figurePara>
